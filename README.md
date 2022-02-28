@@ -2,7 +2,7 @@
 
 #### 👦 ABOUT ME
 
- I'm a **Full Stack Developer** based in Kigali, RRANDA. I always try to compete with the world, which makes me a better person than I am yesterday
+ I'm a **Full Stack Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 
 - 🔭 I’m currently doing professional internship at [OSSIX](https://www.ossix.technology/accueil)
