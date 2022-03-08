@@ -1,4 +1,4 @@
-<div align="center"><h2> Hello Dev<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Pascal Kabika</h2> </div>
+<div align="center"><h2> Hello Dev<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Pascal Kabika</h2> <strong> Available to hire</>✅</div>
 
 #### 👦 ABOUT ME
 
