@@ -37,4 +37,11 @@
 <p align="center"> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://mochajs.org" > <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.chaijs.com/" > <img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="chai" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
   
 </td></tr></table>
+ 
+ Contact me:
+- 📬 Email: pascalkabika123@gmail.com 
+- 🔗 [Linkedin](https://www.linkedin.com/in/pascal-kabika-443061220/)
+- 📲 📩 Whatsapp : +250787690259 
+
+ 
 
