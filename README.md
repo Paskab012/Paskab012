@@ -6,7 +6,12 @@
 
 
 - 🔭 I’m currently doing professional internship at [OSSIX](https://www.ossix.technology/accueil)
+  - Developing world-class applications & providing innovative technologies | Our values: Excellence, Innovation
+ 
+ 
 - 🌱 I’m currently learning full stack development at [MICROVERSE](https://www.microverse.org/). 
+  - As an online school teaching webdevelopment relevant to international rules and based in San Francisco/California, My biggest achivievement up to now is [my capstone project](https://github.com/KABIKA681/HyundaiBest), a beautifull webApp, built with the use HTML5 and CSS3.
+  - Have earned my first certificate of completion. [See my CERTIFICATE](https://www.credential.net/1d85f65f-9943-47df-b759-be87f53862f3#gs.sdzz79)
 
 
 
