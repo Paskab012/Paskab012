@@ -5,7 +5,7 @@
  I'm a **Full Stack Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 
-- 🔭 I’m doing professional internship 🧠 at [OSSIX](https://www.ossix.technology/accueil) Technologies llc.
+- 🔭 I’m doing professional internship 🧠 at [OSSIX](https://www.ossix.technology/accueil) Technologies Llc.
   - Developing world-class applications & providing innovative technologies | Our values: Excellence, Innovation
  
  
