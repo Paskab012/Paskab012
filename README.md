@@ -5,7 +5,7 @@
  I'm a **Full Stack Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 
-- 🔭 Currently enroled at [OCTAN]() Group.
+- 🔭 Currently at [IRONJI]() Rwanda.
 - Working on real-world project  
 - Developing world-class applications & providing innovative technologies | Our values: Excellence, Innovation
  
