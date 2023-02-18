@@ -2,10 +2,10 @@
 
 #### 👦 ABOUT ME
 
- I'm a **Full Stack Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
+ I'm a **Full Stack Web3 Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 
-- 🔭 Currently at [IRONJI]() Rwanda.
+- 🔭 Currently at [NGENI Labs](https://ngeni.io/) Kenya as web3 developer.
 - Working on real-world project  
 - Developing world-class applications & providing innovative technologies | Our values: Excellence, Innovation
  
